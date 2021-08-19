@@ -1,0 +1,25 @@
+@media (max-width: 1180px) {
+    body {
+        min-width: 2400px;
+    }
+}
+
+@media (max-width: 1170px) {
+    .reebok {
+        margin-left: -30px;
+    }
+    .Portfoliophoto {
+        margin-left: -30px;
+    }
+    .BraunLanding {
+        margin-left: -30px;
+    }
+}
+
+@media (max-width: 470px) {
+    body {
+        margin-left: 10px;
+        min-width: 1200px;
+        width: 100%;
+    }
+}
